@@ -66,7 +66,7 @@ The optimized build will be in the `dist/` folder (hashed filenames, minified, e
 3. **Lenis** ensures smooth scrolling and keeps ScrollTrigger in sync.
 
 ## 🙌 Credits
-- Idea/Original: CodeGrid tutorial by **Abbas Shameem** (re-implemented for learning purposes)  
+- Idea/Original: Tutorial by **CodeGrid** (re-implemented for learning purposes)  
 - GSAP © GreenSock – Dual license  
 - Lenis © Studio Freight – MIT
 
